@@ -1,0 +1,10 @@
+com\ecotrack\config\DataInitializer.class
+com\ecotrack\EcoTrackApplication.class
+com\ecotrack\config\WebConfig.class
+com\ecotrack\dto\DashboardSummary.class
+com\ecotrack\model\CloudResource.class
+com\ecotrack\repository\CloudResourceRepository.class
+com\ecotrack\service\CloudResourceService.class
+com\ecotrack\controller\DashboardController.class
+com\ecotrack\config\WebConfig$1.class
+com\ecotrack\controller\CloudResourceController.class
